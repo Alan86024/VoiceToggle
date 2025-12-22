@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-08-30 21:46+0200\n"
+"PO-Revision-Date: 2025-11-25 13:26+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Poedit-Basepath: .\n"
+
+#. Translators: Gesture description for the Input gestures settings dialog
+msgid "Toggles to the next voice."
+msgstr "Schaltet auf die nächste Stimme um."
+
+#. Translators: Label for the silence synthesizer in the voices listbox or synthesizers and voices comboboxes
+msgid "Silence"
+msgstr "Stille"
+
+#. Translators: Add-on settings panel title
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on
+#. to be shown on installation and add-on information found in Add-ons Manager.
+msgid "VoiceToggle"
+msgstr "Sprachumschaltung"
+
+#. Translators: Label for the voices listbox in the add-on settings
+msgid "Voices"
+msgstr "Stimmen"
+
+#. Translators: Label for the add voice button in the add-on settings
+msgid "Add voice"
+msgstr "Stimme hinzufügen"
+
+#. Translators: Label for the remove voice button in the add-on settings
+msgid "Remove voice"
+msgstr "Stimme entfernen"
+
+#. Translators: Label for the update voice when NVDA's own speech settings change checkbox in the add-on settings
+#: addon\globalPlugins\voiceToggle\settingsDialogs.py:67
+msgid "Update voice when NVDA's own speech settings change"
+msgstr ""
+"Aktualisieren der Stimme, wenn sich die Spracheinstellungen von NVDA selbst "
+"ändern"
+
+msgid "The last remaining voice cannot be removed"
+msgstr "Die letzte verbliebene Stimme kann nicht entfernt werden"
+
+#. Translators: Label for the synthesizers combobox in the add voice dialog
+msgid "Synthesizer"
+msgstr "Sprachausgabe"
+
+#. Translators: Label for the voices combobox in the add voice dialog
+msgid "Voice"
+msgstr "Stimme"
+
+#. Translators: Label for the add button in the add voice dialog
+msgid "Add"
+msgstr "&hinzufügen"
+
+#. Translators: Label for the cancel button in the add voice dialog
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#. Translators: Value of the voices combobox in the add voice dialog when no voices are available
+#: addon\globalPlugins\voiceToggle\settingsDialogs.py:185
+msgid "No voices available"
+msgstr "Keine Stimmen verfügbar"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+msgid ""
+"Allows easy toggling between predefined voices.\n"
+"Define voices in NVDA settings, then use NVDA + Alt + V anytime to toggle to "
+"the next voice."
+msgstr ""
+"Ermöglicht einfaches Umschalten zwischen vordefinierten Stimmen.\n"
+"Definieren Sie die Stimmen in den NVDA-Einstellungen und schalten Sie dann "
+"jederzeit mit NVDA + Alt + V zur nächsten Stimme um."

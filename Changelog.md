@@ -1,5 +1,8 @@
 # VoiceToggle - Changelog
 
+## Version 1.7.3
+* Added German translation.
+
 ## Version 1.7.2
 * Fixed the bug of broken "Add voice" dialog when VoiceToggle was unable to load the selected synthesizer voices. This bug happened with incompatible Acapela synthesizer for example.
 
